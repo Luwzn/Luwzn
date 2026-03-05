@@ -1,40 +1,68 @@
-# 👩‍💻 Isabella Luara
+# 👩‍💻 Isabella Luara 🌙
 
-Bem-vindo ao meu perfil no GitHub. Este espaço é dedicado aos meus estudos, projetos e evolução na área de tecnologia e programação.
+Bem-vindo ao meu perfil no GitHub. Este espaço é dedicado aos meus estudos, projetos e ao meu desenvolvimento na área de tecnologia.
 
-##  Sobre mim:
+Aqui compartilho parte do meu aprendizado em programação, ferramentas digitais e organização de projetos. Meu objetivo é utilizar este perfil para registrar minha evolução e construir, ao longo do tempo, um portfólio de conhecimentos e projetos.
 
-Meu nome é Isabella Luara, tenho 16 anos e atualmente estou estudando programação. Tenho interesse em tecnologia e estou constantemente buscando aprender, linguagens e formas de desenvolver soluções utilizando programação.
+---
 
-Utilizo o GitHub como um espaço para organizar meus projetos, registrar minha evolução e compartilhar meu aprendizado ao longo do tempo.
+## 🙋‍♀️ Sobre mim
+
+Meu nome é **Isabella Luara**, tenho **16 anos** e estou iniciando minha jornada na área de tecnologia e programação.
+
+Tenho interesse em aprender novas linguagens, desenvolver projetos e entender como a tecnologia pode ser utilizada para resolver problemas e criar soluções. Atualmente estou focada em desenvolver minhas habilidades técnicas e adquirir cada vez mais conhecimento.
+
+Também estou cursando **Técnico em Administração**, o que me permite desenvolver habilidades organizacionais, administrativas e de gestão que complementam meu aprendizado em tecnologia.
+
+---
 
 ## 🛠️ Habilidades e Tecnologias
 
-Atualmente estou desenvolvendo conhecimentos nas seguintes ferramentas e tecnologias:
+Atualmente estou desenvolvendo conhecimentos nas seguintes ferramentas e áreas:
 
-* 🐍 Python
-* 📊 Excel
-* pacote office
-* area de adm
+* 🐍 **Python**
+* 📊 **Excel**
+* 🗂️ **Pacote Office**
+* 📁 **Área administrativa**
 
-Essas tecnologias fazem parte do meu processo de aprendizado e são utilizadas em exercícios, estudos e pequenos projetos práticos.
+Essas ferramentas fazem parte do meu processo de aprendizado e são utilizadas em atividades de estudo, exercícios práticos e pequenos projetos.
 
-## 📚 O que estou aprendendo
+---
 
-Atualmente estou focada em desenvolver:
+## 📚 O que estou aprendendo atualmente
 
 * 💻 Lógica de programação
-* 🐍 Projetos práticos utilizando Python
-* 📁 Organização de projetos utilizando GitHub
-* 📊 Uso de ferramentas de dados no Excel
-* tecnico em adm 
+* 🐍 Desenvolvimento de projetos em Python
+* 📁 Organização e documentação de projetos no GitHub
+* 📊 Utilização do Excel para organização e análise de dados
+
+### 📖 Formação e estudos
+
+* Técnico em **Administração — ETEC**
+* **2º ano do Ensino Médio**
+* **Desenvolvimento Web — AFESU Veleiros**
+
+---
 
 ## 🎯 Objetivos
 
-Meus principais objetivos são continuar evoluindo na área de tecnologia e programação, desenvolver projetos cada vez mais completos e ampliar meus conhecimentos em diferentes ferramentas e linguagens.
+Meus principais objetivos são continuar evoluindo na área de tecnologia, desenvolver novos projetos e ampliar meus conhecimentos em programação e ferramentas digitais.
 
-Pretendo utilizar este perfil para registrar minha jornada de aprendizado e construir um portfólio de projetos ao longo do tempo.
+Pretendo utilizar este perfil como um espaço para registrar minha evolução, compartilhar projetos e construir um portfólio que represente minha jornada de aprendizado.
+
+---
 
 ## 📫 Contato
 
 GitHub: **Lu.wzn**
+Instagram: **lu.wzn**
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/lu.wzn)
+
+---
+
+## 🌙 Antes tarde do que nunca
+
+<p align="center">
+Aprendendo programação um passo de cada vez.
+</p>
